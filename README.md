@@ -45,8 +45,8 @@ Certifique-se de ter instalado:
 
 2. Você receberá as seguintes mensagens no terminal:
 
-Servidor ativo na port: 3000
-Banco mongodb conectado!
+   > Servidor ativo na port: 3000
+   > Banco mongodb conectado!
 
 3. Testando a API (Abra o seu browser):
 
