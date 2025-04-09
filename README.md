@@ -37,13 +37,13 @@ Certifique-se de ter instalado:
 
    npm install
 
-▶️ Como Executar o Projeto
+▶️ Como Executar a API
 
 1. Execute o comando:
 
    npm start
 
-2.Você receberá as seguintes mensagens no terminal:
+2. Você receberá as seguintes mensagens no terminal:
 
 Servidor ativo na port: 3000
 Banco mongodb conectado!
