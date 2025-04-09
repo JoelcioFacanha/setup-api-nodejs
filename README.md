@@ -24,3 +24,25 @@ Certifique-se de ter instalado:
 ```bash
     git clone https://github.com/JoelcioFacanha/setup-api-nodejs.git
 ```
+
+2. Entre na pasta do projeto:
+   Lembrando que você pode renomear o diretório do projeto para qualquer nome que você deseje.
+   cd [diretorio-do-projeto]
+
+3. Instale as dependências:
+
+npm install
+
+▶️ Como Executar o Projeto
+
+1. Execute o comando:
+
+npm start
+
+2. Abra o seu browser:
+
+Digite a url: http://localhost:3000/
+
+3. Você deve receber a seguinte resposta no browser:
+
+> Api ativa...tsc-watch
