@@ -1,0 +1,23 @@
+{
+  "name": "bordado-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \"node ./dist/main.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joélcio Façanha Moreira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.8",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.14.0",
+    "tsc-watch": "^6.2.1",
+    "typescript": "^5.8.3"
+  }
+}
